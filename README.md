@@ -29,7 +29,7 @@
 
 ### 方式一：直接运行（推荐）
 
-从 [Releases](https://github.com/KILLSTARSX/Chat-AI-Forwarder/releases) 下载 `聊天软件AI转发助手.exe`，双击即可。
+从 [Releases](https://github.com/KILLSTARSX/Chat-AI-Forwarder/releases) 下载 `Chat-AI-Forwarder.exe`，双击即可（下载后可自行重命名为「聊天软件AI转发助手.exe」）。
 无需安装 Python，无需安装运行库，无需管理员权限。
 
 ### 方式二：从源码运行
