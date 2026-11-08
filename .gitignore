@@ -1,0 +1,41 @@
+# 本机运行产生的数据 / 配置（绝不提交）
+appdata/
+config.json
+*.log
+*.log.*
+ocr_runtime/
+*_config.json
+gui_config*.json
+window_config.json
+smart_config.json
+
+# 构建产物与中间文件
+build/
+dist/
+*.spec.bak
+*.py[cod]
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+*.exe
+*.tmp
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 本地截图、备份、历史脚本（可能包含聊天内容或本机路径）
+*.png
+*.jpg
+*.jpeg
+*.bak
+_backups/
+
+# 应用图标是发布素材，需要随仓库提交
+!assets/
+!assets/*.png
+!assets/*.ico

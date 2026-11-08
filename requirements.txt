@@ -1,0 +1,16 @@
+# 核心功能零依赖：Windows API + tkinter + Python 标准库即可运行。
+# 以下全部为「可选增强」，缺失时程序会自动降级，不影响主流程。
+
+# 界面控件识别（不点右键直接读取窗口文本控件）
+uiautomation>=2.0 ; sys_platform == "win32"
+
+# 大区域像素比对的向量化加速（小区域使用标准库实现，性能已足够）
+numpy>=1.24 ; sys_platform == "win32"
+
+# OCR 需要的组件属于「运行时侧载」，不随单文件 EXE 分发：
+#   rapidocr_onnxruntime>=1.3
+#   Pillow>=10.0
+# 需要 OCR 时请自行准备 ocr_runtime/ 目录，详见 README。
+
+# 仅构建 EXE 时需要（运行 EXE 不需要）
+# pyinstaller>=6.0
