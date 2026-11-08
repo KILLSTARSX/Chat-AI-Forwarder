@@ -218,8 +218,6 @@ python -m PyInstaller --noconfirm --clean ChatAIForwarder.spec
 
 ## 作者与许可
 
-- 作者：**KILL-STAR SX**
-- 仓库：<https://github.com/KILLSTARSX/Chat-AI-Forwarder>
 - 作者主页：<https://github.com/KILLSTARSX> —— **更多有趣实用项目都在里面**
 - 许可：[MIT](LICENSE)
 
