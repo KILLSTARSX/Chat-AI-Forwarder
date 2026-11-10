@@ -95,6 +95,15 @@ python src/chat_ai_forwarder.py
 
 ---
 
+<img width="949" height="572" alt="tab1_guide" src="https://github.com/user-attachments/assets/34cf0b23-3cf0-4a98-bf80-f4ef76bb4719" />
+
+<img width="949" height="572" alt="tab2_calibrate" src="https://github.com/user-attachments/assets/bb9883bd-b5cd-47e4-b6e5-a4e471cc2c9c" />
+
+<img width="949" height="572" alt="tab3_detect" src="https://github.com/user-attachments/assets/30c8a656-02dc-485d-beca-e9158c1e05f4" />
+
+<img width="949" height="572" alt="tab4_advanced" src="https://github.com/user-attachments/assets/2eb9ce95-ca78-4d83-9f52-3d0a80afa377" />
+
+
 ## 运行模式
 
 | 模式 | 行为 |
